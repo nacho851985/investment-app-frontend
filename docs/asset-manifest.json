@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.2135d204.js",
+    "static/js/787.b7fddda7.chunk.js": "/static/js/787.b7fddda7.chunk.js",
+    "static/media/perfil.jpg": "/static/media/perfil.4a47580f819ed1c2ac10.jpg",
+    "static/media/powell.jpg": "/static/media/powell.d27b304e859a9e4dd426.jpg",
+    "static/media/bbva.png": "/static/media/bbva.e209d575d024102e60ce.png",
+    "static/media/hsbc.jpg": "/static/media/hsbc.71696e75d6ba2e5cd436.jpg",
+    "static/media/invertir-online.jpg": "/static/media/invertir-online.9d2bd523d090bc615fcb.jpg",
+    "static/media/bull-market-brokers.jpg": "/static/media/bull-market-brokers.5a815da45138ec437822.jpg",
+    "static/media/balanz.jpg": "/static/media/balanz.e33f04991b4cd2e88220.jpg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.2135d204.js.map": "/static/js/main.2135d204.js.map",
+    "787.b7fddda7.chunk.js.map": "/static/js/787.b7fddda7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2135d204.js"
+  ]
+}
